@@ -12,3 +12,5 @@ print(newStr);
 
 print(a+b);
 
+// 'let' is a constant while 'var' is not and can be changed
+
